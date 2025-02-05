@@ -15,3 +15,5 @@ You won’t start with overpowered gear. Just the basics, like any fresh adventu
 At its core, this is about leveling up beyond the standard Dovahkiin. Whether you’re a samurai mage, a stealth archer, or someone who just wants to punch dragons in the face, the tools are here. The world reacts to you, companions grow with you, and no two journeys will feel the same.
 
 There’s no hand-holding. Just dive in, get lost, and let the story write itself.
+
+[ENTER](https://docs.google.com/document/d/18zwPnSO76vas-NXhfJUNbNowZoC-Be762XtdjPO-gGo/edit?usp=sharing)
