@@ -1,5 +1,3 @@
-# UNDEFEATED
-
 ![UNDEFEATED Logo](./assets/logo-new.png)
 
 This isn’t just a collection of mods thrown together—it’s what I always felt Skyrim was missing. While building it, I kept thinking, "Why hasn’t anyone done this yet?" Not because it’s groundbreaking, but because it fills the gaps left by other lists. No trade-offs, no shortcuts—just more depth, more detail, and immersion pushed as far as Skyrim’s engine can handle.
