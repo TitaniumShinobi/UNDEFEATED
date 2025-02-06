@@ -16,7 +16,7 @@ At its core, this is about leveling up beyond the standard Dovahkiin. Whether yo
 
 There’s no hand-holding. Just dive in, get lost, and let the story write itself.
 
-<div align="center" style="color: #fb462f; font-size: 30px;">
+<div align="center">
   <a href="https://docs.google.com/document/d/18zwPnSO76vas-NXhfJUNbNowZoC-Be762XtdjPO-gGo/edit?usp=sharing" style="text-decoration: none; color: inherit;">
     <strong>ENTER</strong>
   </a>
