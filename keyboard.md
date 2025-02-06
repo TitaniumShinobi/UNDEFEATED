@@ -1,1 +1,1 @@
-![keyboard](./assets/keyboard.png)
+![keyboard controls](./assets/keyboard.png)
